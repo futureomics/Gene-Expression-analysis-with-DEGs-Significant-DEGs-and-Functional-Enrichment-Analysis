@@ -51,6 +51,25 @@ Heatmaps
 Pathway enrichment plots
 
 
+
+<img width="3600" height="2400" alt="enrichment_bubbleplot_all" src="https://github.com/user-attachments/assets/10376f35-bde9-428d-99d7-edfb9d56f77d" />
+
+
+
+<img width="3000" height="1800" alt="enrichment_barplot_KEGG_2021_Human" src="https://github.com/user-attachments/assets/78b9f5c9-4dab-475f-9f9e-e260e576a879" />
+
+
+
+<img width="3000" height="1800" alt="enrichment_barplot_GO_Cellular_Component_2021" src="https://github.com/user-attachments/assets/0d94683d-eb1a-4130-b8e8-203464dc9c83" />
+
+
+<img width="3000" height="1800" alt="enrichment_barplot_Reactome_2022" src="https://github.com/user-attachments/assets/f7e9f271-cc2a-4377-9b4c-96c7fba4fbdb" />
+
+
+
+
+
+
 📈 Output
 
 Tables
