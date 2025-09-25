@@ -1,2 +1,2 @@
-# Gene-Expression-analysis-with-DEGs-Significant-DEGs-and-Functional-Enrichement-Analysis
-End to End Gene Expression analysis with DEGs, Significant DEGs and Functional Enrichement Analysis
+# Gene-Expression-analysis-with-DEGs-Significant-DEGs-and-Functional-Enrichment-Analysis
+End-to-End Gene Expression Analysis with DEGs, Significant DEGs, and Functional Enrichment Analysis
